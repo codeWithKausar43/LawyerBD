@@ -16,6 +16,7 @@ const Footer = () => {
           <Link>My-Bookings</Link>
           <Link>Blogs</Link>
           <Link>Contact</Link>
+          <Link>Contact</Link>
         </div>
         <div className="border border-gray-600-900 border-dashed mt-10 w-full"></div>
 
