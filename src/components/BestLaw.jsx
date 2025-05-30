@@ -158,6 +158,9 @@ const BestLaw = () => {
           </div>
         </div>
       </div>
+       <button className="px-6 text-white py-2 text-sm font-bold border border-gray-400 mt-6 rounded-4xl bg-gradient-to-t from-purple-400 to-pink-300">
+                Show All Lowyer
+        </button>
     </div>
   );
 };
